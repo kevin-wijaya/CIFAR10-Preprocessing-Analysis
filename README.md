@@ -1,6 +1,6 @@
 # CIFAR10-Preprocessing-Analysis
 
-This project focuses on analyzing the effects of image data preprocessing techniques on accuracy results using the CIFAR-10 dataset with a CNN (Convolutional Neural Network) architecture. 
+This project aims to analyze how preprocessing techniques applied to image data can affect the accuracy results. It focuses specifically on using the CIFAR-10 dataset and a CNN architecture (Convolutional Neural Network). By examining different preprocessing methods, the project seeks to understand their impact on the performance of the CNN model in classifying images.
 
 ![CIFAR10](https://github.com/kevin-wijaya/CIFAR10-Preprocessing-Analysis/blob/main/image.png)
 
